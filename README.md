@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Julio Barros
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sprucegabriela&label=Profile%20views&color=0e75b6&style=flat" alt="sprucegabriela" /> </p>
+
 - 🔭 **Working:** Full stack development desktop, web e mobile apps.
 - 👨‍🎓 **Studying:** Information Systems at CIn UFPE;
 - 🌱 **Learning:** Elasticsearch, Software Architecture Designer and Patterns;
