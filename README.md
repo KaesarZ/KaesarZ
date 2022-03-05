@@ -4,7 +4,7 @@
 
 - 🔭 **Working:** Full stack development desktop, web e mobile apps.
 - 👨‍🎓 **Studying:** Information Systems at CIn UFPE;
-- 🌱 **Learning:** Elasticsearch, Software Architecture Designer and Patterns;
+- 🌱 **Learning:** Software Architecture Designer and Patterns;
 - 🎒 **Main Tools:** Visual Studio Code and GitHub;
 - ⚡ **Tech Skills:** HTML5, CSS3, JavaScript ES6, Typescript, Python, Java and more...
 
