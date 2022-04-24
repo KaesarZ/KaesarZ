@@ -4,9 +4,9 @@
 
 - 🔭 **Working:** Full stack development desktop, web e mobile apps.
 - 👨‍🎓 **Studying:** Information Systems at CIn UFPE;
-- 🌱 **Learning:** Software Architecture Designer and Patterns;
-- 🎒 **Main Tools:** Visual Studio Code and GitHub;
-- ⚡ **Tech Skills:** HTML5, CSS3, JavaScript ES6, Typescript, Python, Java and more...
+- 🌱 **Learning:** Software Architecture Design and Patterns;
+- 🎒 **Main Tools:** VS Code, GitHub, UML and MER;
+- ⚡ **Tech Skills:** HTML5, CSS3, JS ES6, Typescript, Python, Java, C# and more...
 
 <a href="https://github.com/kaesardev/kaesardev">
   <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kaesardev" />
